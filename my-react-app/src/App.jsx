@@ -10,6 +10,16 @@ function App() {
     <>
       <div>
         <h1>Welcome to the Hompage</h1>
+        <div class="content">
+          <div class="image">
+            <img src= "./assets/react.svg" alt="image" />
+          </div>
+          <div class="content">
+            <h2>Name: Queen Of Tears</h2>
+            <h3>Ratings: 8.2</h3>
+            <p>Summary: Bake Hyun-woo and Hong hae-in navigate a tesion.</p>
+          </div>
+        </div>
       </div>
     </>
   )
