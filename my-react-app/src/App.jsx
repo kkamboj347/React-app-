@@ -17,7 +17,9 @@ function App() {
           <div class="content">
             <h2>Name: Queen Of Tears</h2>
             <h3>Ratings: 8.2</h3>
-            <p>Summary: Bake Hyun-woo and Hong hae-in navigate a tense relationship both at home and at work.</p>
+            <p>Summary: Bake Hyun-woo and Hong hae-in navigate a tense relationship both at home and at work.<br>
+              But upon deciding his future, Hyun-woo pays a visit to his family.
+            </p>
           </div>
         </div>
       </div>
